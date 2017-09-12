@@ -1,0 +1,6 @@
+print (5+10)
+print (1+7)
+print (2**16)
+print ('Ваше имя?')
+name = input ()
+print ('Привет,' + name)

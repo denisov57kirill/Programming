@@ -19,6 +19,8 @@ for i in range(k-1):
                 j=j+1
         if (j==0) and (q[len(d)+1]=="|"):
             print(q)
+        else:
+            print("Slovo ne vstretilos v slovare")
         c=c+1
             
             
